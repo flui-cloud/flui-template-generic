@@ -1,0 +1,10 @@
+{
+  "name": "flui-template-generic",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Flui generic template — minimal Node.js HTTP server with zero dependencies",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
